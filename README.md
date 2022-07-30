@@ -18,7 +18,7 @@ Lead Software Developer at [Scott Logic](https://www.scottlogic.com/).
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" alt="Spring" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot/"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" alt="Spring" width="40" height="40"/></a>
 
 ## Connect with me
 
