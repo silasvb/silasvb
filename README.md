@@ -18,8 +18,9 @@ Lead Software Developer at [Scott Logic](https://www.scottlogic.com/).
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" alt="Spring" width="40" height="40"/></a>
 
 ## Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-silasbenson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-benson/)](https://www.linkedin.com/in/carlturpie/)
-[![Github Badge](https://img.shields.io/badge/-silasbenson-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white&link=https://github.com/silasvb)](https://github.com/CJTurpie)
+[![Linkedin Badge](https://img.shields.io/badge/-silasbenson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-benson/)](https://www.linkedin.com/in/silas-benson/)
+[![Github Badge](https://img.shields.io/badge/-silasbenson-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white&link=https://github.com/silasvb)](https://github.com/silasvb)
