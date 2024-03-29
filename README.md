@@ -39,7 +39,6 @@ Lead Software Developer at [Scott Logic](https://www.scottlogic.com/).
 
 <a href="https://www.docker.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a>
 <a href="https://www.jenkins.io/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"></a>
-<a href="https://aws.amazon.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://kubernetes.io/"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"></a>
 <a href="https://couchdb.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" alt="CouchDB" width="40" height="40"></a>
@@ -71,7 +70,7 @@ Lead Software Developer at [Scott Logic](https://www.scottlogic.com/).
 <a href="https://ohmyz.sh/"><img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-plain.svg" alt="OhMyZsh" width="40" height="40"></a>
 <a href="https://podman.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-plain.svg" alt="Podman" width="40" height="40"></a>
 <a href="https://www.portainer.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="Portainer" width="40" height="40"></a>
-<href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" alt="Postman" width="40" height="40"></a>
+<a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" alt="Postman" width="40" height="40"></a>
 <a href="https://slack.com/intl/en-gb"><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" alt="Slack" width="40" height="40"></a>
 <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"></a>
 
